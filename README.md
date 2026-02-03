@@ -1,7 +1,7 @@
 
 # GROUNDWATER-LULC ANALYSIS: GGREATER GIYANI LOCAL MUNICIPALITY(1995-2005)
 
-[![DOI](https://zenodo.org/badge/DOI/[WILL-ADD-LATER].svg)](https://doi.org/[WILL-ADD-LATER])
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18474680.svg)](https://doi.org/10.5281/zenodo.18474680)
 
 Code repository for MSc thesis: "The impact of land use and land cover change on groundwater in Greater Giyani Local Municipality, South Africa."
 
@@ -58,7 +58,7 @@ source("r_scripts/GW_LULC_Modelling.R")                   # Section 4.6
 - GreaterGiyani_Wards.shp - Ward boundaries
 - Buffers_LULC_All.csv - Buffer-level LULC statistics
 
-See: [Zenodo deposit DOI - WILL ADD LATER]
+See: [Zenodo deposit DOI - 10.5281/zenodo.18474680]
 
 # Citation
 
@@ -70,5 +70,9 @@ GitHub repository. https://github.com/mshipalana/GGLM-Groundwater-LULC-Analysis
 # License
 
 MIT License - see LICENSE file
-[Your University]  
-[Your Email]
+
+# Contact
+
+Matsavu Shipalana
+Nelson Mandela University
+matsavushipalana@gmail.com
