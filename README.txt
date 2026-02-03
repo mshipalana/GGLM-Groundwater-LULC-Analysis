@@ -24,7 +24,7 @@ S3_ACCURACY ASSESSMENT.csv
   - 4 sheets: Pre/Post classification for 1995, 2000, 2005, and Summary
   - Removed from Appendix B for brevity
 
-S4_CHANGE DETECTION.csv
+S4_CHANGE DETECTION (LCM).csv
   - Cross-tabulation matrices for LULC change detection
   - 5 sheets: 1995-2000, 2000-2005, 1995-2005, Key transitions, and Summary
   - Gains and Losses, and Net Change matrices
