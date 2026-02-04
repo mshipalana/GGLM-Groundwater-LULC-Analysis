@@ -53,7 +53,7 @@ S4_CHANGE DETECTION (LCM).csv
 RELATED RESOURCES
 -----------------------------------------------------------------------------
 
-Code Repository: https://github.com/[username]/GGLM-Groundwater-LULC-Analysis
+Code Repository: https://github.com/mshipalana/GGLM-Groundwater-LULC-Analysis
 DOI: 10.5281/zenodo.18474680
 
 -----------------------------------------------------------------------------
