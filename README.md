@@ -57,7 +57,7 @@ source("r_scripts/GW_LULC_Modelling.R")                   # Section 4.6
 - GreaterGiyani_Wards.shp - Ward boundaries
 - Buffers_LULC_All.csv - Buffer-level LULC statistics
 
-See: Zenodo deposit DOI: 10.5281/zenodo.18474680
+See: [Zenodo deposit DOI: 10.5281/zenodo.18475606]
 
 # Citation
 
@@ -67,6 +67,9 @@ Shipalana, M.S. (2026). Code for: Land use/land cover change and groundwater
 level dynamics in Greater Giyani Local Municipality (1995-2005). 
 GitHub repository. https://github.com/mshipalana/GGLM-Groundwater-LULC-Analysis
 DOI: 10.5261/zenodo.18474680
+
+# Related Resources
+**Supplementary Data**: https://doi.org/10.5281/zenodo.18475606 
 
 # License
 
