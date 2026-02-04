@@ -33,7 +33,7 @@ S4_CHANGE DETECTION (LCM).csv
     Contributors to Net Change per Class, From-To transition matrices
   - Supports Appendix C change detection analysis (Tables C.1-C.4)
 
-  S5_A_Spearman Correlation_Matrix.csv
+  S5_Spearman Correlation_Matrix.csv
   - Complete Spearman correlation results (all 70+ predictors per period)
   - Three response periods: 1995-2000, 2000-2005, 1995-2005
   - Truncated to top 20 in Appendix D (Tables D.2-D.4)
