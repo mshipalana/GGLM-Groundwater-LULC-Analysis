@@ -312,6 +312,8 @@ Export.table.toDrive({
   description: 'Corrected_ConfusionMatrix_1995_Final',
   folder: 'GEE_Exports',
 
+----------------------------------------------------------------------------------
+
   //---LULC CLASSIFICATION 2000---//
 
   // Defining study area
@@ -642,6 +644,7 @@ Export.table.toDrive({
   fileFormat: 'CSV'
 });
 
+----------------------------------------------------------------------------------
 
 //---LULC CLASSIFICATION 2005---//
 
